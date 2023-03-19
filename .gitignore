@@ -1,0 +1,5 @@
+*/__pycache__/
+*/.ipynb_checkpoints/
+SSD/modelo/
+YOLO/runs/train/yolov7_pothole/weights/
+*/*.pt
